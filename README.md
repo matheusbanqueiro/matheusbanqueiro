@@ -4,7 +4,7 @@
  
 </div>
 
-+ 👩🏻‍💻 Estudo **Análise e Desenvolvimento de Sistemas na UNICID**
++ 👨‍💻 Estudo **Análise e Desenvolvimento de Sistemas na UNICID**
 + 💬 Estudo **Inglês na Wizard**
 + 🔹 Faço cursos na **Alura**
 <h3>Para contato:</h3>
