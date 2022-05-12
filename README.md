@@ -25,4 +25,4 @@
  <img align="center" alt="JAVA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </div>
  
-![Snake animation](https://github.com/danielbped/Matheubanqueiro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Matheubanqueiro/Matheubanqueiro/blob/output/github-contribution-grid-snake.svg)
