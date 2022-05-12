@@ -12,7 +12,7 @@
 <a href = "mailto:mbanqueirolima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 
 <a href="https://www.linkedin.com/in/matheus-banqueiro-lima-b594031a2/" target="blank">
-<div align="center">
+<div align="">
   <a href="https://github.com/matheusbanqueiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheubanqueiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheubanqueiro&layout=compact&langs_count=7&theme=dark"/>
