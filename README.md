@@ -1,13 +1,13 @@
 <div align="center">
- <h1>Olá, eu sou o <a href="https://www.linkedin.com/in/matheus-banqueiro-lima-b594031a2/"><i>Matheus Lima🖖</i></a></h1>
-  <h3><b>Seja bem-vindo ao meu Github!❤</b></h3>
+ <h1>Hello <a href="https://www.linkedin.com/in/matheus-banqueiro-lima-b594031a2/"><i>Matheus Lima🖖</i></a>Here!</h1>
+  <h3><b>Welcome the my Github!❤</b></h3>
  
 </div>
 
-+ 👨‍💻 Estudo **Análise e Desenvolvimento de Sistemas na UNICID**
-+ 💬 Estudo **Inglês na Wizard**
-+ 🔹 Faço cursos na **Alura**
-<h3>Para contato:</h3>
++ 👨‍💻 I study **Análise e Desenvolvimento de Sistemas na UNICID**
++ 💬 I study **Inglês na Wizard**
++ 🔹 I make courses at **Alura**
+<h3>For contact:</h3>
 <a href="https://www.linkedin.com/in/matheus-banqueiro-lima-b594031a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:mbanqueirolima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 
