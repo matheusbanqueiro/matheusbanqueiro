@@ -7,6 +7,8 @@
 + 👨‍💻 I study **Análise e Desenvolvimento de Sistemas na UNICID**
 + 💬 I study **Inglês na Wizard**
 + 🔹 I make courses at **Alura**
++ 🧠 Learning **React.js and node**
+
 <h3>For contact:</h3>
 <a href="https://www.linkedin.com/in/matheus-banqueiro-lima-b594031a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:mbanqueirolima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
