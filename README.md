@@ -5,8 +5,6 @@
 </div>
 
 + 👨‍💻 I study **Análise e Desenvolvimento de Sistemas na UNICID**
-+ 💬 I study **Inglês na Wizard**
-+ 🔹 I make courses at **Alura**
 + 🧠 Learning **Next.js and node**
 
 <h3>For contact:</h3>
@@ -26,4 +24,4 @@
   <img align="center" alt="SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 </div>
  
-![Snake animation](https://github.com/Matheubanqueiro/Matheubanqueiro/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/Matheubanqueiro/Matheubanqueiro/blob/output/github-contribution-grid-snake.svg) -->
