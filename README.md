@@ -1,9 +1,7 @@
+<a href="https://www.linkedin.com/in/matheus-banqueiro-lima-b594031a2/"><img height="170px"  align="right" align="top" src="https://github.com/Matheubanqueiro/Matheubanqueiro/assets/101984947/f651c951-4bcf-4503-b208-a707c4e3650b"></a>
+
  <h1>Hello <a href="https://www.linkedin.com/in/matheus-banqueiro-lima-b594031a2/"><i>Matheus Lima🖖</i></a> Here!</h1>
- <div align="left">
-  
- ![logo](https://github.com/Matheubanqueiro/Matheubanqueiro/assets/101984947/34e28a95-e3bc-42c1-86b7-434163af48a6)
-  
-</div>
+ 
 + 👨‍💻 I study **Análise e Desenvolvimento de Sistemas na UNICID**
 + 🧠 Learning **Next.js and node**
 
@@ -15,7 +13,7 @@
   <img align="center" alt="SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 </div>
 <a href="https://www.linkedin.com/in/matheus-banqueiro-lima-b594031a2/" target="blank">
-<div>
+
   <a href="https://github.com/Matheubanqueiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheubanqueiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheubanqueiro&layout=compact&langs_count=7&theme=dark"/>
