@@ -1,26 +1,39 @@
-<a href="https://www.linkedin.com/in/matheus-banqueiro-lima-b594031a2/"><img height="170px"  align="right" align="top" src="https://github.com/Matheubanqueiro/Matheubanqueiro/assets/101984947/f651c951-4bcf-4503-b208-a707c4e3650b"></a>
+<a href="https://www.linkedin.com/in/matheus-banqueiro-lima-b594031a2/"><img height="300px"  align="right" align="top" src="https://github.com/Matheubanqueiro/Matheubanqueiro/assets/101984947/f651c951-4bcf-4503-b208-a707c4e3650b"></a>
 
- <h1>Hello <a href="https://www.linkedin.com/in/matheus-banqueiro-lima-b594031a2/"><i>Matheus Lima🖖</i></a> Here!</h1>
- 
-+ 👨‍💻 I study **Análise e Desenvolvimento de Sistemas na UNICID**
-+ 🧠 Learning **Next.js and node**
+# Hi 🖖
 
++ 📌 From São Paulo - SP
++ 👨‍💻 I study **Análise e Desenvolvimento de Sistemas** From UNICID
 
 <h3> My SKILLS <h3>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="JAVA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-</div>
+<p align="left"> 
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="sprintboot" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/></code>
+</p>
+<br>
+ 
 <a href="https://www.linkedin.com/in/matheus-banqueiro-lima-b594031a2/" target="blank">
-
   <a href="https://github.com/Matheubanqueiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheubanqueiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Matheubanqueiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheubanqueiro&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
- <h3>For contact:</h3>
+<h2> For contact: </h2>
 <a href="https://www.linkedin.com/in/matheus-banqueiro-lima-b594031a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:mbanqueirolima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
  <!-- ![Snake animation](https://github.com/Matheubanqueiro/Matheubanqueiro/blob/output/github-contribution-grid-snake.svg) -->
