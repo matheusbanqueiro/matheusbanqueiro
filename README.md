@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/matheusbanqueiro/"><img height="200px"  align="right" align="top" src="https://github.com/matheusbanqueiro/matheusbanqueiro/assets/101984947/5cbdd9b2-31fe-4040-b111-165b42bf64c5"></a>
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=sans&weight=800&size=50&pause=3000&color=DDFF21&background=FFFFFF00&width=600&height=90&lines=Hi,+Welcome!+👋🏼;I'm+Matheus+Lima!🧑🏻‍💻;Very+nice+to+see+you!🤙🏼;Check+back+often!❤️)](https://git.io/typing-svg)
 
-Hello, I'm Matheus Banqueiro Lima, a technology enthusiast driven by stimulating challenges. At 19 years old, I've already delved deep into the programming world, navigating an exciting path filled with continuous learning. 🚀
+I'm technology enthusiast driven by stimulating challenges. At 19 years old, I've already delved deep into the programming world, navigating an exciting path filled with continuous learning. 🚀
 
 Born and raised in the heart of Brazil, I'm always on the lookout for opportunities to broaden my knowledge and horizons. Solving intricate puzzles is what truly fuels my motivation, and my eagerness to embrace new challenges knows no bounds. On my journey as a Full Stack Developer and UX/UI Designer, I combine robust technical skills with an inventive approach to design. My goal is to craft distinctive and memorable digital experiences.🧠🫀
 
