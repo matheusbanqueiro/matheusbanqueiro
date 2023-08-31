@@ -5,10 +5,13 @@
 Hello, I'm Matheus Banqueiro Lima, a technology enthusiast driven by stimulating challenges. At 19 years old, I've already delved deep into the programming world, navigating an exciting path filled with continuous learning. 🚀
 
 Born and raised in the heart of Brazil, I'm always on the lookout for opportunities to broaden my knowledge and horizons. Solving intricate puzzles is what truly fuels my motivation, and my eagerness to embrace new challenges knows no bounds. On my journey as a Full Stack Developer and UX/UI Designer, I combine robust technical skills with an inventive approach to design. My goal is to craft distinctive and memorable digital experiences.🧠🫀
-+ 📌 From São Paulo - SP
-+ 👨‍💻 I study **Análise e Desenvolvimento de Sistemas** From UNICID
 
-<h3> My skills: <h3>
++ 🇧🇷 From São Paulo - SP
++ 🏫 I study **Análise e Desenvolvimento de Sistemas** From UNICID
++ 📐 Designer UX|UI
++ 👨‍💻 FullStack Developer
+
+### My skills: 
 <p align="left"> 
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
@@ -27,12 +30,11 @@ Born and raised in the heart of Brazil, I'm always on the lookout for opportunit
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/></code>
 </p>
-<br>
- 
+
 <a href="https://www.linkedin.com/in/matheus-banqueiro-lima-b594031a2/" target="blank">
   <a href="https://github.com/Matheubanqueiro">
-  <code><img height="150em" src="https://github-readme-stats.vercel.app/api?username=Matheubanqueiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></code>
-  <code><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheubanqueiro&layout=compact&langs_count=7&theme=dark"/></code>
+  <code><img height="190em" src="https://github-readme-stats.vercel.app/api?username=Matheubanqueiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></code>
+  <code><img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheubanqueiro&layout=compact&langs_count=7&theme=dark"/></code>
 </div>
 
 
