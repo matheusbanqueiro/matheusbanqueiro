@@ -8,7 +8,7 @@ Born and raised in the heart of Brazil, I'm always on the lookout for opportunit
 
 + 🇧🇷 From São Paulo - SP
 + 🏫 I study **Análise e Desenvolvimento de Sistemas** From UNICID
-+ 📐 Designer UX|UI
++ 🖌️ Designer UX|UI
 + 👨‍💻 FullStack Developer
 
 ### My skills: 
