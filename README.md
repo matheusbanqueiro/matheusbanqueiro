@@ -37,10 +37,11 @@ Born and raised in the heart of Brazil, I'm always on the lookout for opportunit
   <code><img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheubanqueiro&layout=compact&langs_count=7&theme=dark"/></code>
 </div>
 
-
-<h2> For contact: </h2>
+### For contact:
 <a href="https://www.linkedin.com/in/matheus-banqueiro-lima-b594031a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:mbanqueirolima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+
+
  <!-- ![Snake animation](https://github.com/Matheubanqueiro/Matheubanqueiro/blob/output/github-contribution-grid-snake.svg) -->
 
 
