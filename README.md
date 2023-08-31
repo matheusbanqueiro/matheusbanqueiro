@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/matheusbanqueiro/"><img height="300px"  align="right" align="top" src="https://github.com/Matheubanqueiro/Matheubanqueiro/assets/101984947/f651c951-4bcf-4503-b208-a707c4e3650b"></a>
+<a href="https://www.linkedin.com/in/matheusbanqueiro/"><img height="200px"  align="right" align="top" src="https://github.com/Matheubanqueiro/Matheubanqueiro/assets/101984947/f651c951-4bcf-4503-b208-a707c4e3650b"></a>
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=sans&weight=800&size=50&pause=3000&color=DDFF21&background=FFFFFF00&width=600&height=85&lines=Hi,+Welcome!+👋🏼;I'm+Matheus+Lima!🧑🏻‍💻;Very+nice+to+see+you!🤙🏼;Check+back+often!❤️)](https://git.io/typing-svg)
 
 Hello, I'm Matheus Banqueiro Lima, a technology enthusiast driven by stimulating challenges. At 19 years old, I've already delved deep into the programming world, navigating an exciting path filled with continuous learning. 🚀
