@@ -3,7 +3,7 @@
 
 I'm technology enthusiast driven by stimulating challenges. At 20 years old, I've already delved deep into the programming world, navigating an exciting path filled with continuous learning. 🚀🇧🇷
 
-Born and raised in the heart of Brazil, I'm always on the lookout for opportunities to broaden my knowledge and horizons. Solving intricate puzzles is what truly fuels my motivation, and my eagerness to embrace new challenges knows no bounds. On my journey as a Full Stack Developer and UX/UI Designer, I combine robust technical skills with an inventive approach to design. My goal is to craft distinctive and memorable digital experiences.🧠🫀
+Full Stack Developer proficient in both front-end and back-end development, with expertise in UX/UI Design. Experienced in modern technologies like Next.js, Nest.js, Spring Boot, React Native, Tailwind, and Next.js. Skilled in SQL and NoSQL databases for robust data management. Committed to continuous learning and contributing to innovative projects within dynamic teams.🧠🫀
 
 + 🇧🇷 From São Paulo - SP
 + 👨‍💻 FullStack Developer
