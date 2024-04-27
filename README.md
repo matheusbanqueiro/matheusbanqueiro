@@ -6,7 +6,6 @@ I'm technology enthusiast driven by stimulating challenges. At 20 years old, I'v
 Born and raised in the heart of Brazil, I'm always on the lookout for opportunities to broaden my knowledge and horizons. Solving intricate puzzles is what truly fuels my motivation, and my eagerness to embrace new challenges knows no bounds. On my journey as a Full Stack Developer and UX/UI Designer, I combine robust technical skills with an inventive approach to design. My goal is to craft distinctive and memorable digital experiences.🧠🫀
 
 + 🇧🇷 From São Paulo - SP
-+ 🖌️ Designer UX|UI
 + 👨‍💻 FullStack Developer
 
 ### My skills: 
