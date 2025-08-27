@@ -1,12 +1,15 @@
-<a href="https://www.linkedin.com/in/matheusbanqueiro/"><img height="200px"  align="right" align="top" src="https://github.com/matheusbanqueiro/matheusbanqueiro/assets/101984947/5cbdd9b2-31fe-4040-b111-165b42bf64c5"></a>
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=sans&weight=800&size=50&pause=3000&color=DDFF21&background=FFFFFF00&width=600&height=90&lines=Hi,+Welcome!+👋🏼;I'm+Matheus+Lima!🧑🏻‍💻;Very+nice+to+see+you!🤙🏼;Check+back+often!❤️)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=sans&weight=800&size=50&pause=3000&color=1B55E9&background=FFFFFF00&width=600&height=90&lines=Hi,+Welcome!+👋🏼;I'm+Matheus+Lima!🧑🏻‍💻;Very+nice+to+see+you!🤙🏼;Check+back+often!❤️)](https://git.io/typing-svg)
 
-I'm technology enthusiast driven by stimulating challenges. At 20 years old, I've already delved deep into the programming world, navigating an exciting path filled with continuous learning. 🚀🇧🇷
+I am a Full Cycle Developer with experience ranging from the development of intuitive and functional interfaces to building robust back-end systems and cloud infrastructure. My journey has allowed me to work across all layers of the software development cycle, combining broad technical knowledge with a strong focus on quality and delivery.
 
-Full Stack Developer proficient in both front-end and back-end development, with expertise in UX/UI Design. Experienced in modern technologies like Next.js, Nest.js, Spring Boot, React Native, Tailwind, and Next.js. Skilled in SQL and NoSQL databases for robust data management. Committed to continuous learning and contributing to innovative projects within dynamic teams.🧠🫀
+I began my career in front-end development, creating engaging and user-friendly digital experiences in collaboration with design teams. I then evolved into full stack development, where I expanded my role to include back-end systems, databases, and integrations, delivering complete solutions from scratch.
+
+Currently, as a back-end developer, I focus on the development and maintenance of microservices and cloud-based messaging systems, contributing to infrastructure restructuring, implementing new features from the ground up to production, and analyzing demands to ensure the stability and scalability of applications.
+
+I can navigate between product, design, development, and operations, always aiming to deliver end-to-end solutions with a strong emphasis on performance, quality, and business value.
 
 + 🇧🇷 From São Paulo - SP
-+ 👨‍💻 FullStack Developer
++ 👨‍💻 Full Cycle Developer
 
 ### My skills: 
 <p align="left"> 
