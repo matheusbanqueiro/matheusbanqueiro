@@ -24,7 +24,7 @@ I am a **Full Cycle Developer** passionate about building **end-to-end solutions
 </p>
 
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=313qurkw5tsgwp5afibi27lesp2e&count=5&width=600)](https://open.spotify.com/user/313qurkw5tsgwp5afibi27lesp2e)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=313qurkw5tsgwp5afibi27lesp2e&count=3&width=600)](https://open.spotify.com/user/313qurkw5tsgwp5afibi27lesp2e)
 
 ---
 ### 📫 Contact Me  
