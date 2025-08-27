@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=sans&weight=800&size=50&pause=3000&color=1B55E9&background=FFFFFF00&width=600&height=90&lines=Hi,+Welcome!+👋🏼;I'm+Matheus+Lima!🧑🏻‍💻;Very+nice+to+see+you!🤙🏼;Check+back+often!❤️)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=sans&weight=800&size=50&pause=3000&color=1B55E9&background=FFFFFF00&width=40&height=90&lines=Hi,+Welcome!+👋🏼;I'm+Matheus+Lima!🧑🏻‍💻;Very+nice+to+see+you!🤙🏼;Check+back+often!❤️)](https://git.io/typing-svg)
 
 I am a Full Cycle Developer with experience ranging from the development of intuitive and functional interfaces to building robust back-end systems and cloud infrastructure. My journey has allowed me to work across all layers of the software development cycle, combining broad technical knowledge with a strong focus on quality and delivery.
 
@@ -13,25 +13,23 @@ I can navigate between product, design, development, and operations, always aimi
 
 ### My skills: 
 <p align="left"> 
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
-  <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
-  <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></code>
-  <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/></code>
-  <code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="sprintboot" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nest.js" width="40" height="40"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="nest.js" width="40" height="40"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="django" width="40" height="40"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="django" width="40" height="40"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="django" width="40" height="40"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="django" width="40" height="40"/></code>
+  <code><img width="40" height="40" alt="aws" src="https://github.com/user-attachments/assets/19d7bbb0-50d3-4ce9-a759-bdd32d8a02d1" /></code>
+  <code><img width="40" height="40" alt="django" src="https://github.com/user-attachments/assets/5386958c-3c58-4de8-8106-57eb1b19464e" /></code>
+  <code><img width="40" height="40" alt="tailwind" src="https://github.com/user-attachments/assets/32fcfef0-55df-4343-a939-c29db1313b4a" /></code>
+  <code><img width="40" height="40" alt="terraform" src="https://github.com/user-attachments/assets/69f4d6bf-945a-4e88-8889-c9e806cc867c" /></code>
+  <code><img width="40" height="40" alt="git" src="https://github.com/user-attachments/assets/09f755eb-64eb-4c3f-ba26-7672499e7d6f" /></code>
+  <code><img width="40" height="40" alt="ubuntu" src="https://github.com/user-attachments/assets/29888745-154e-4c8f-b5d9-ed1e7c229947" /></code>
+  <code><img width="40" height="40" alt="stripe" src="https://github.com/user-attachments/assets/0f0a3969-ccf6-4b3c-b54b-7bd879916092" /></code>
+  <code><img width="40" height="40" alt="socketio" src="https://github.com/user-attachments/assets/c3a2cd6c-210a-4f3b-9356-1b25c06f2031" /></code>
+  <code><img width="40" height="40" alt="figma" src="https://github.com/user-attachments/assets/983ebe93-4e6e-4da0-ba33-496e82c909da" /></code>
+  <code><img width="40" height="40" alt="docker" src="https://github.com/user-attachments/assets/7254eca7-ed3b-4c41-b54a-ec6e7dd7bd69" /></code>
+  <code><img width="40" height="40" alt="vercel" src="https://github.com/user-attachments/assets/fa88d910-0753-4925-b224-88102d5d9aaa" /></code>
+  <code><img width="40" height="40" alt="nextjs" src="https://github.com/user-attachments/assets/1dafc01a-81a7-422c-8e2b-765eba367645" /></code>
+  <code><img width="40" height="40" alt="react-native" src="https://github.com/user-attachments/assets/a44ca8c7-1d2a-4ac5-9d57-85c123a348eb" /></code>
+  <code><img width="40" height="40" alt="postman" src="https://github.com/user-attachments/assets/f00e7636-1e85-41a0-b8fd-6e7a608fa9f4" /></code>
 </p>
+
+
 
 <a href="https://www.linkedin.com/in/matheusbanqueiro/" target="blank">
   <code><img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusbanqueiro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></code>
