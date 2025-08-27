@@ -27,6 +27,11 @@ I can navigate between product, design, development, and operations, always aimi
   <code><img width="40" height="40" alt="nextjs" src="https://github.com/user-attachments/assets/1dafc01a-81a7-422c-8e2b-765eba367645" /></code>
   <code><img width="40" height="40" alt="react-native" src="https://github.com/user-attachments/assets/a44ca8c7-1d2a-4ac5-9d57-85c123a348eb" /></code>
   <code><img width="40" height="40" alt="postman" src="https://github.com/user-attachments/assets/f00e7636-1e85-41a0-b8fd-6e7a608fa9f4" /></code>
+  <code><img width="40" height="40" alt="celery" src="https://github.com/user-attachments/assets/42829560-1f44-47e7-99cf-9326a3c3a809" /></code>
+  <code><img width="40" height="40" alt="postgres" src="https://github.com/user-attachments/assets/4d4bcbbe-1b25-43a9-97c5-3125f415cf03" /></code>
+  <code><img width="40" height="40" alt="typescript" src="https://github.com/user-attachments/assets/7acaa43d-1322-4eca-a696-7c28d88badab" /></code>
+  <code><img width="40" height="40" alt="redis" src="https://github.com/user-attachments/assets/365f0e3f-7f16-4143-b260-a05414682f69" /></code>
+
 </p>
 
 
