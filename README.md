@@ -23,8 +23,20 @@ I am a **Full Cycle Developer** passionate about building **end-to-end solutions
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbanqueiro&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
----
 
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=313qurkw5tsgwp5afibi27lesp2e&count=5&width=600)](https://open.spotify.com/user/313qurkw5tsgwp5afibi27lesp2e)
+
+---
 ### 📫 Contact Me  
-<a href="https://www.linkedin.com/in/matheusbanqueiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:mbanqueirolima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/matheusbanqueiro/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:mbanqueirolima@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&&logoColor=white">
+</a>
+<a href="https://mbportifolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Site-1B55E9?style=for-the-badge&logoColor=white">
+</a>
+
+
+
