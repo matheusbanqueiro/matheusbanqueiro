@@ -13,6 +13,7 @@ I can navigate between product, design, development, and operations, always aimi
 
 ### My skills: 
 <p align="left"> 
+  <code><img width="40" height="40" alt="datadog" src="https://github.com/user-attachments/assets/91ea731f-a2c3-47d4-b59c-2f9baaa33a4e" /></code>
   <code><img width="40" height="40" alt="aws" src="https://github.com/user-attachments/assets/19d7bbb0-50d3-4ce9-a759-bdd32d8a02d1" /></code>
   <code><img width="40" height="40" alt="django" src="https://github.com/user-attachments/assets/5386958c-3c58-4de8-8106-57eb1b19464e" /></code>
   <code><img width="40" height="40" alt="tailwind" src="https://github.com/user-attachments/assets/32fcfef0-55df-4343-a939-c29db1313b4a" /></code>
@@ -31,7 +32,6 @@ I can navigate between product, design, development, and operations, always aimi
   <code><img width="40" height="40" alt="postgres" src="https://github.com/user-attachments/assets/4d4bcbbe-1b25-43a9-97c5-3125f415cf03" /></code>
   <code><img width="40" height="40" alt="typescript" src="https://github.com/user-attachments/assets/7acaa43d-1322-4eca-a696-7c28d88badab" /></code>
   <code><img width="40" height="40" alt="redis" src="https://github.com/user-attachments/assets/365f0e3f-7f16-4143-b260-a05414682f69" /></code>
-
 </p>
 
 
