@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1B55E9&width=600&lines=Hi%2C+Welcome!+👋;I'm+Matheus+Lima!;Full+Cycle+Developer+🧑🏻‍💻;Building+end-to-end+solutions!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=17BF09&width=600&lines=Hi%2C+Welcome!+👋;I'm+Matheus+Lima!;Full+Cycle+Developer+🧑🏻‍💻;Building+end-to-end+solutions!)](https://git.io/typing-svg)
 
 
 ### 👨🏻‍💻 About Me  
