@@ -37,17 +37,6 @@ Currently working with microservices, AWS cloud infrastructure, observability, m
 </p>
 
 ---
-
-### 📊 GitHub Stats  
-<p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusbanqueiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbanqueiro&layout=compact&langs_count=7&theme=dark"/>
-</p>
-
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=313qurkw5tsgwp5afibi27lesp2e&count=3&width=600)](https://open.spotify.com/user/313qurkw5tsgwp5afibi27lesp2e)
-
----
 ### 📫 Contact Me  
 <a href="https://www.linkedin.com/in/matheusbanqueiro/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
